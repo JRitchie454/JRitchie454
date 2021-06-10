@@ -9,13 +9,12 @@ Hi, I'm Jamie, a full stack web and software devlopment apprentice from the Unit
   🌱 I’m currently learning PHP and Laravel
   </li>
 </ul>
-
-##### Languages
-
-
+<br>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JRitchie454&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true"/>
 </div>
-<div align="center" style="margin-top:40px">
+<br>
+<br>
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRitchie454&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&layout=compact"/>
 </div>
