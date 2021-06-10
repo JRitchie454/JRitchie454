@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I'm Jamie 👋
+Hi, I'm Jamie, a full stack web and software devlopment apprentice from the United Kingdom.
 
-<!--
-**JRitchie454/JRitchie454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  <li>
+  🔭 I’m currently working on Agent Canvassing, Virtual Val, and Property Network
+  </li>
+  <li>
+  🌱 I’m currently learning PHP and Laravel
+  </li>
+</ul>
 
-Here are some ideas to get you started:
+##### Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JRitchie454&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true"/>
+</div>
+<div align="center" style="margin-top:10px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRitchie454&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&layout=compact"/>
+</div>
