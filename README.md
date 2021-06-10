@@ -1,5 +1,5 @@
 ### Hi, I'm Jamie 👋
-Hi, I'm Jamie, a full stack web and software devlopment apprentice from the United Kingdom.
+Hi, I'm Jamie, a full stack web and software development apprentice from the United Kingdom.
 
 <ul>
   <li>
